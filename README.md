@@ -43,7 +43,7 @@ before starting to run the project , make sure you have mailtrap account in orde
 - create your database
 ### .env Mailtrap corresponding data
 
-    MAIL_MAILER=smtp
+    MAIL_MAILER=
     MAIL_HOST=
     MAIL_PORT=
     MAIL_USERNAME=
