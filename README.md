@@ -11,7 +11,7 @@ email with a confirmation link should be sent to the user. Optionally you can ad
 
 ### Problems
 
-- tried to use gmail and some case it was not working
+- tried to use gmail and some case it was not working [Fixed]
 
 ### Findings
 
